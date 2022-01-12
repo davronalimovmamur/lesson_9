@@ -323,3 +323,7 @@
    grid-template-columns: auto auto auto auto;
    margin-top: 60px;
 }
+.ozgarish {
+    background-color: yellow;
+    margin: 800px 0 40px 40px;
+}
